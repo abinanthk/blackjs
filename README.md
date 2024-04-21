@@ -1,3 +1,3 @@
 # Blackjs 
 
-A React Helper and Component Library.
+React Helper and Component Library.
